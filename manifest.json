@@ -1,0 +1,38 @@
+{
+  "name": ".Blend File",
+  "short_name": ".Blend File",
+  "start_url": "https://blendfile.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#005382",
+  "description": "Free 3D .Blend Files",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-eMaumCU49Hw/XJyTrhSekEI/AAAAAAAADGo/892tyQmSq9YloxAcyus6yrCEagatvgM1ACLcBGAs/s48/BlendFile.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-eMaumCU49Hw/XJyTrhSekEI/AAAAAAAADGo/892tyQmSq9YloxAcyus6yrCEagatvgM1ACLcBGAs/s72/BlendFile.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-eMaumCU49Hw/XJyTrhSekEI/AAAAAAAADGo/892tyQmSq9YloxAcyus6yrCEagatvgM1ACLcBGAs/s96/BlendFile.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-eMaumCU49Hw/XJyTrhSekEI/AAAAAAAADGo/892tyQmSq9YloxAcyus6yrCEagatvgM1ACLcBGAs/s144/BlendFile.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-eMaumCU49Hw/XJyTrhSekEI/AAAAAAAADGo/892tyQmSq9YloxAcyus6yrCEagatvgM1ACLcBGAs/s168/BlendFile.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-eMaumCU49Hw/XJyTrhSekEI/AAAAAAAADGo/892tyQmSq9YloxAcyus6yrCEagatvgM1ACLcBGAs/s192/BlendFile.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-eMaumCU49Hw/XJyTrhSekEI/AAAAAAAADGo/892tyQmSq9YloxAcyus6yrCEagatvgM1ACLcBGAs/s512/BlendFile.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
