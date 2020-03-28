@@ -1,11 +1,11 @@
 {
-  "name": ".Blend File",
-  "short_name": ".Blend File",
-  "start_url": "https://blendfile.blogspot.com/",
+  "name": "CC0 3DS",
+  "short_name": "CC0 3DS",
+  "start_url": "https://cc03ds.blogspot.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#005382",
-  "description": "Free 3D .Blend Files",
+  "description": "Free 3D Models Under Public Domain",
   "icons": [{
     "src": "https://2.bp.blogspot.com/-eMaumCU49Hw/XJyTrhSekEI/AAAAAAAADGo/892tyQmSq9YloxAcyus6yrCEagatvgM1ACLcBGAs/s48/BlendFile.png",
     "sizes": "48x48",
