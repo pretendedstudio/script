@@ -21,7 +21,8 @@ button,input,optgroup,select,textarea{margin:0;font-family:inherit;font-size:inh
 .card-text:last-child{margin-bottom:0}
 .card-link:hover{text-decoration:none}
 .card-link+.card-link{margin-left:1.25rem}
-.card-header{padding:.75rem 1.25rem;margin-bottom:0;background-color:#232526;border-bottom:1px solid rgba(0,0,0,.125)}
+.card-header{padding:.75rem 1.25rem;margin-bottom:0;background-color:#232526;border-bottom:1px solid rgba(0,0,0,.125);text-align:left;}
+.card-header{float:right;}
 .card-header:first-child{border-radius:calc(.25rem - 1px) calc(.25rem - 1px) 0 0}
 .card-header+.list-group .list-group-item:first-child{border-top:0}
 .card-footer{padding:.75rem 1.25rem;background-color:#232526;border-top:1px solid rgba(0,0,0,.125)}
