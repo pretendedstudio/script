@@ -1,6 +1,6 @@
 /*! Google Drive APIs v3 | CC0 3Ds - Free 3D Models Under Public Domain | cc03ds.com/p/license.html */
 
-function kitchenset_blend(){window.open('https://www.googleapis.com/drive/v3/files/1NQzNH-rp0lYRe2E1QpSaSZOOscNKom14?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');"1NQzNH-rp0lYRe2E1QpSaSZOOscNKom14": "Kitchen Set"}
+function kitchenset_blend(){window.open('https://www.googleapis.com/drive/v3/files/1NQzNH-rp0lYRe2E1QpSaSZOOscNKom14?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function kitchenset_fbx(){window.open('https://www.googleapis.com/drive/v3/files/1uYADVnJ6eAGBUbZddtAmmjBffJKL_HMf?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function kitchenset_obj(){window.open('https://www.googleapis.com/drive/v3/files/1vkt3vjfA7KgAywbw1eyMpVbKadr4f4QO?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function kitchenset_3ds(){window.open('https://www.googleapis.com/drive/v3/files/1aU5mRXRa02uQ1rzMSFatSZGCU2VvdOja?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
