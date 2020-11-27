@@ -22,6 +22,12 @@ function rubberducky_obj(){window.open('https://www.googleapis.com/drive/v3/file
 function rubberducky_3ds(){window.open('https://www.googleapis.com/drive/v3/files/1OMot7J_A88F4p0hGzRDE9dGMj1C141S8?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function rubberducky_dae(){window.open('https://www.googleapis.com/drive/v3/files/15PZGnnikYn2WCEXmGeZDoVDSOPyQPwQ-?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function rubberducky_stl(){window.open('https://www.googleapis.com/drive/v3/files/1Y-VE4YpVDlnUIgMor6CVqn9dIpZ9J1_M?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
+function apple_blend(){window.open('https://www.googleapis.com/drive/v3/files/1A_FZj7ve9yBlz8NE7-2Iu5Qi_9gEJQf5?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
+function apple_fbx(){window.open('https://www.googleapis.com/drive/v3/files/1MSGZTmQrZxCynTl9vGANkHDK7hXTZHzO?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
+function apple_obj(){window.open('https://www.googleapis.com/drive/v3/files/1dzPK86I8zCTuCPyQTdfyedKRVFGOnAu2?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
+function apple_3ds(){window.open('https://www.googleapis.com/drive/v3/files/1q4Kax2KCNkkbK_6TFr09WTnBMH5McxaX?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
+function apple_dae(){window.open('https://www.googleapis.com/drive/v3/files/1IsFRhELwYH3BrkU1AT633muDItzZ3oKp?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
+function apple_stl(){window.open('https://www.googleapis.com/drive/v3/files/19LwfGi7T8IqBirMcyujavFkv0dxeT8PR?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function _blend(){window.open('https://www.googleapis.com/drive/v3/files/?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function _fbx(){window.open('https://www.googleapis.com/drive/v3/files/?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function _obj(){window.open('https://www.googleapis.com/drive/v3/files/?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
