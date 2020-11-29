@@ -263,3 +263,11 @@ function _obj(){window.open('https://www.googleapis.com/drive/v3/files/?alt=medi
 function _3ds(){window.open('https://www.googleapis.com/drive/v3/files/?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function _dae(){window.open('https://www.googleapis.com/drive/v3/files/?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function _stl(){window.open('https://www.googleapis.com/drive/v3/files/?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
+/*! Google Drive APIs v3 | HDRI Haven | https://hdrihaven.com/p/license.php */
+function tiergarten_hdri(){window.open('https://hdrihaven.com/hdri/?h=tiergarten');}
+function urbanstreet04_hdri(){window.open('https://hdrihaven.com/hdri/?h=urban_street_04');}
+/*! Google Drive APIs v3 | CC0 Textures - Free Public Domain PBR Materials | https://help.cc0textures.com/doku.php?id=website:license */
+function wood032_texture(){window.open('https://cc0textures.com/view?id=Wood032');}
+function fabric004_texture(){window.open('https://cc0textures.com/view?id=Fabric004');}
+function _hdri(){window.open('');}
+function _texture(){window.open('');}
