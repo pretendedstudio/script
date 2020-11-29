@@ -257,8 +257,6 @@ function barrentree_obj(){window.open('https://www.googleapis.com/drive/v3/files
 function barrentree_3ds(){window.open('https://www.googleapis.com/drive/v3/files/1zLz8VU7m9zivAi9nzG-Sh4645F8C7MpD?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function barrentree_dae(){window.open('https://www.googleapis.com/drive/v3/files/1tmDHdqLAehbQER4DqYzd4UE0AxMP9m1c?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function barrentree_stl(){window.open('https://www.googleapis.com/drive/v3/files/1RNAdf8YyzzByB4Vq-BrKU2y1gmGAjUdx?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
-function about(){window.open('https://about.mohamadrido.com');}
-function blog(){window.open('https://www.mohamadrido.com');}
 function _blend(){window.open('https://www.googleapis.com/drive/v3/files/?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function _fbx(){window.open('https://www.googleapis.com/drive/v3/files/?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function _obj(){window.open('https://www.googleapis.com/drive/v3/files/?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
