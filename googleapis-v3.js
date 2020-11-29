@@ -263,3 +263,6 @@ function _obj(){window.open('https://www.googleapis.com/drive/v3/files/?alt=medi
 function _3ds(){window.open('https://www.googleapis.com/drive/v3/files/?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function _dae(){window.open('https://www.googleapis.com/drive/v3/files/?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function _stl(){window.open('https://www.googleapis.com/drive/v3/files/?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
+
+function author_test(){window.open('https://about.mohamadrido.com');}
+function author_blog(){window.open('https://mohamadrido.com');}
