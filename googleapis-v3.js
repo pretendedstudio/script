@@ -266,9 +266,9 @@ function _stl(){window.open('https://www.googleapis.com/drive/v3/files/?alt=medi
 /*! Google Drive APIs v3 | HDRI Haven | https://hdrihaven.com/p/license.php */
 function tiergarten_hdri(){window.open('https://hdrihaven.com/hdri/?h=tiergarten');}
 function urbanstreet04_hdri(){window.open('https://hdrihaven.com/hdri/?h=urban_street_04');}
-function _hdri(){window.open('https://hdrihaven.com/hdri/?h=');}
-function _hdri(){window.open('https://hdrihaven.com/hdri/?h=');}
-function _hdri(){window.open('https://hdrihaven.com/hdri/?h=');}
+function abandonedhall01_hdri(){window.open('https://hdrihaven.com/hdri/?h=abandoned_hall_01');}
+function abandonedhopperterminal01_hdri(){window.open('https://hdrihaven.com/hdri/?h=abandoned_hopper_terminal_01');}
+function artistworkshop_hdri(){window.open('https://hdrihaven.com/hdri/?h=artist_workshop');}
 function _hdri(){window.open('https://hdrihaven.com/hdri/?h=');}
 function _hdri(){window.open('https://hdrihaven.com/hdri/?h=');}
 function _hdri(){window.open('https://hdrihaven.com/hdri/?h=');}
