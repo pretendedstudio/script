@@ -433,4 +433,3 @@ function summerstage01_hdri(){window.open('https://hdrihaven.com/hdri/?h=summer_
 function rooflessruins_hdri(){window.open('https://hdrihaven.com/hdri/?h=roofless_ruins');}
 function sterkspruitfalls_hdri(){window.open('https://hdrihaven.com/hdri/?h=sterkspruit_falls');}
 function sabietent_hdri(){window.open('https://hdrihaven.com/hdri/?h=sabie_tent');}, 
-function _hdri(){window.open('https://hdrihaven.com/hdri/?h=');}
