@@ -308,3 +308,7 @@ function whiteclifftop_hdri(){window.open('https://hdrihaven.com/hdri/?h=white_c
 function circusmaximus2_hdri(){window.open('https://hdrihaven.com/hdri/?h=circus_maximus_2');}
 function vialegiuseppegaribaldi_hdri(){window.open('https://hdrihaven.com/hdri/?h=viale_giuseppe_garibaldi');}
 function lenong2_hdri(){window.open('https://hdrihaven.com/hdri/?h=lenong_2');}
+/*! Google Drive APIs v3 | CC0 Textures - Free Public Domain PBR Materials | https://help.cc0textures.com/doku.php?id=website:license */
+function wood032_texture(){window.open('https://cc0textures.com/view?id=Wood032');}
+function fabric004_texture(){window.open('https://cc0textures.com/view?id=Fabric004');}
+function _texture(){window.open('https://cc0textures.com/view?id=');}
