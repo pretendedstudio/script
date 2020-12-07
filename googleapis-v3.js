@@ -264,6 +264,7 @@ function _3ds(){window.open('https://www.googleapis.com/drive/v3/files/?alt=medi
 function _dae(){window.open('https://www.googleapis.com/drive/v3/files/?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 function _stl(){window.open('https://www.googleapis.com/drive/v3/files/?alt=media&key=AIzaSyB6GD77XU6gxgNtQGTXH_mPcSd7jLRC_IM');}
 /*! Google Drive APIs v3 | HDRI Haven | https://hdrihaven.com/p/license.php */
+function hdri_license(){window.open('https://hdrihaven.com/p/license.php');}
 function lot02_hdri(){window.open('https://hdrihaven.com/hdri/?h=lot_02');}
 function smallhangar02_hdri(){window.open('https://hdrihaven.com/hdri/?h=small_hangar_02');}
 function concretetunnel_hdri(){window.open('https://hdrihaven.com/hdri/?h=concrete_tunnel');}
@@ -700,6 +701,7 @@ function chapmansdrive_hdri(){window.open('https://hdrihaven.com/hdri/?h=chapman
 function cabin_hdri(){window.open('https://hdrihaven.com/hdri/?h=cabin');}
 function _hdri(){window.open('https://hdrihaven.com/hdri/?h=');}
 /*! Google Drive APIs v3 | CC0 Textures - Free Public Domain PBR Materials | https://help.cc0textures.com/doku.php?id=website:license */
+function texture_license(){window.open('https://help.cc0textures.com/doku.php?id=website:license');}
 function wood032_texture(){window.open('https://cc0textures.com/view?id=Wood032');}
 function fabric004_texture(){window.open('https://cc0textures.com/view?id=Fabric004');}
 function candy003_texture(){window.open('https://cc0textures.com/view?id=Candy003');}
